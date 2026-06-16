@@ -47,8 +47,8 @@ I focus on building:
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farzanajohari&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanajohari&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farzanajohari12-ctrl&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzanajohari12-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ I focus on building:
 ## 🔥 GITHUB STREAK
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzanajohari&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzanajohari12-ctrl&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@ I focus on building:
 ## 🌐 CONTACT
 
 <p align="center">
-  <a href="mailto:farzana@intralogyc.com">
+  <a href="mailto:farzanajohari12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
