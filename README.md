@@ -9,6 +9,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farzanajohari&label=PROFILE+VIEWS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-MALAYSIA-red?style=for-the-badge" />
+</p>
 
 ## 👨‍💻 ABOUT ME
 
